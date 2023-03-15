@@ -51,4 +51,5 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
+src/Calculator/Applications/Contents
 src/build
